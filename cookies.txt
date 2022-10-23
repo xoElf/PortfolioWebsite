@@ -1,0 +1,13 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+geek-t.com	TRUE	/	FALSE	1999999999	_landing_page	%2Fcollections%2Fall
+geek-t.com	TRUE	/	FALSE	1999999999	_secure_session_id	b2e1d74b6877c4b2f8bf7e7d1fbe65a7
+geek-t.com	TRUE	/	FALSE	1999999999	dynamic_checkout_shown_on_cart	1
+geek-t.com	TRUE	/	FALSE	1999999999	localization	US
+geek-t.com	TRUE	/	FALSE	1999999999	cart_currency	USD
+geek-t.com	TRUE	/	FALSE	1999999999	_y	00458c2e-d43b-42cd-a75d-f2d86509e5fb
+geek-t.com	TRUE	/	FALSE	1999999999	_s	623df0d0-de54-4a1d-9904-b30fe24eaa9b
+geek-t.com	TRUE	/	FALSE	1999999999	_shopify_y	00458c2e-d43b-42cd-a75d-f2d86509e5fb
+geek-t.com	TRUE	/	FALSE	1999999999	_shopify_s	623df0d0-de54-4a1d-9904-b30fe24eaa9b
+geek-t.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
